@@ -206,3 +206,4 @@ if uploaded_file:
         f'<div class="metric-box">Total Shapes Detected: {len(df)}</div>',
         unsafe_allow_html=True
     )
+#
